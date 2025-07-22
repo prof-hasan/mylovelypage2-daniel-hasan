@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/uLlcgqkG)
 # Trabalho Prático 1 - O Assunto X
 
 Você deverá fazer **fazer um site sobre um determinado assunto - o Assunto X -**, para motivar os amigos a
@@ -72,7 +73,7 @@ O site deve conter:
      - Se estiver usando recursos de terceiros (_e.g._, vídeos, sons, imagens
        etc.), a página deve mostrar quem é o autor de cada um, possivelmente
        com o link apontando onde esse recurso foi encontrado
-   - Itens opicionais realizados
+   - Itens opcionais realizados
 1. Inclusão de **estilos em arquivo** _CSS_ externo
    <details>
       <summary>Instruções ao estilizar...</summary>
